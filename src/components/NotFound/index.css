@@ -1,0 +1,16 @@
+/* Write your CSS here */
+.nf-cont {
+  min-height: 100vh;
+}
+
+.nf-icon-cont {
+  min-height: 90vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.nf-icon {
+  width: 60%;
+}

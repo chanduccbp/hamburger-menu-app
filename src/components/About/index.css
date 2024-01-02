@@ -1,0 +1,11 @@
+/* Write your CSS here */
+.a-cont {
+  min-height: 100vh;
+}
+
+.a-icon-cont {
+  min-height: 90vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
